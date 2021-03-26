@@ -1,0 +1,4 @@
+^D:\CODE_C\EASYMULE\SRC\WORKLAYER\MD4_ASM.ASM
+ml.exe /c /Cx /coff /Fo .\objs\ "D:\code_C\easyMule\src\WorkLayer\MD4_asm.asm"
+^D:\CODE_C\EASYMULE\SRC\WORKLAYER\SHA_ASM.ASM
+ml.exe /c /Cx /coff /Fo .\objs\ "D:\code_C\easyMule\src\WorkLayer\SHA_asm.asm"

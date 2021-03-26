@@ -1,0 +1,2 @@
+D:\code_C\easyMule\src\debug\res\MiniMule.htm
+D:\code_C\easyMule\src\debug\res\PopMule.htm
